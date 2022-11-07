@@ -1,12 +1,13 @@
 ### This is using data scrabing skill to collect food pantry and homeless shelter information from websites: 
 * http://www.foodpantries.org/
-
-
 * https://www.freefood.org/
 * https://www.homelessshelterdirectory.org/foodbanks/index.html
 ### The information I need for food pantry data and homeless shelter data were:
 * food pantry name/ Homeless shelter name
 * address, which include room number, street, city, state, zipcode and so on
+
+## Over 30,000 piece of data were collected from this data scrabing project
+## Data were hidden and it was very hard to find them
 
 <img src="https://github.com/Wenhuan2516/FoodPantryDataScraping/blob/main/food1.png" alt="Food Panty 1" title="Food Pantry 1">
 
